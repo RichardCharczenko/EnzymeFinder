@@ -1,1 +1,1 @@
-# EnzymeFinder
+# MetaGenomeStudy
